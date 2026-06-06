@@ -1,18 +1,11 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/06-full.jpg
-alt: 
+title: What was changed?
+subtitle: ...and maybe could be changed
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: Possible Improvements
+  subtitle: Some last minute fixes
+  thumbnail: assets/img/portfolio/question-mark.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
-
+The first improvement involved changing our CAD model. A battery support structure, essentially a cage, for the battery pack was added to the rear of the robot to improve the integrity of the robot structure while it is on the move. When it came to the electronics, a row of LEDs, soldered on a separate board, are connected directly adjacent to the photoresistor board to serve as a light source for better delta values. We also added a ring of tape around the very edges of the light shield to further reduce the influence of ambient light on the photoresistor readings. Seeing a noticable improvement in performance as a result.
