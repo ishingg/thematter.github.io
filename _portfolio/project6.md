@@ -83,6 +83,7 @@ tr:nth-child(even) {
 <center>
   Leaderboards for each track
 </center>
-<img src="assets/img/portfolio/dragrace_ranks.png" width = "" height = "">
-<img src="assets/img/portfolio/freq_ranks.png" width = "" height = "">
-<img src="assets/img/portfolio/loop_ranks.png" width = "" height = "">
+
+<img src="{{ 'assets/img/portfolio/dragrace_ranks.png' | relative_url }}" width = "" height = "">
+<img src="{{ 'assets/img/portfolio/freq_ranks.png' | relative_url }}" width = "" height = "">
+<img src="{{ 'assets/img/portfolio/loop_ranks.png' | relative_url }}" width = "" height = "">
