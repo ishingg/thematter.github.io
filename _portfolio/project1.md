@@ -25,6 +25,9 @@ caption:
   </caption>
   <img src="{{ 'assets/img/portfolio/Breadboard_pots.png' | relative_url }}" width = "" height = ""> 
 </center>
+<video controls width="100%">
+  <source src="{{ 'assets/videos/portfolio/seedround.mp4' | relative_url }}" type="video/mp4">
+</video>
 <br>
 
 <center>
