@@ -7,6 +7,8 @@ caption:
   thumbnail: assets/img/portfolio/rank1.jpg
 ---
 
+
+
 <video controls width="100%">
   <source src="{{ 'assets/videos/portfolio/semifinal.mp4' | relative_url }}" type="video/mp4">
 </video>
@@ -25,7 +27,7 @@ Finals Round 2 (The Matter beats King Sean)
 <br>
 <br>
 
-<img src = "assets/img/team/teampic.jpg" width = "" height = ""> 
+<img src = "assets/img/team/teampic.jpg" width = "257" height = "290"> 
 <center>
   The Matter Wins
 </center>
