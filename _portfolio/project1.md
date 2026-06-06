@@ -22,7 +22,7 @@ caption:
   <caption>
     Breadboarding the potentiometers for robot PID tuning.
   </caption>
-  <img src="{{ "/assets/img/portfolio/Breadboard_pots.png" | prepend: site.baseurl | prepend: site.url}}" />
+  ![Image](/assets/img/portfolio/Breadboard_pots.png)
 </center>
 <br>
 
