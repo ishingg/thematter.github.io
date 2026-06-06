@@ -55,7 +55,7 @@ caption:
   <caption>
     Assembled all the components listed above into one cohesive robot. 
   </caption>
-  <img src="assets/img/portfolio/07-thumbnail.jpg" width = "" height = ""> 
+  <img src="assets/img/portfolio/07-thumbnail.JPG" width = "" height = ""> 
 </center>
 
 {:.list-inline}
