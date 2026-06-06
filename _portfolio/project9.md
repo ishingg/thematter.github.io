@@ -7,7 +7,15 @@ caption:
   thumbnail: assets/img/portfolio/rank1.jpg
 ---
 
-
+<style>
+  img {
+    width = 50%;
+    height = 50%;
+  }  
+  caption {
+    caption-side: bottom;
+  }
+</style>
 
 <video controls width="100%">
   <source src="{{ 'assets/videos/portfolio/semifinal.mp4' | relative_url }}" type="video/mp4">
@@ -27,12 +35,11 @@ Finals Round 2 (The Matter beats King Sean)
 <br>
 <br>
 
-<img src = "assets/img/team/teampic.jpg" width = "257" height = "290"> 
 <center>
   <caption>
     The Matter Wins
   </caption>
-  <img src = "assets/img/team/teampic.jpg" width = "257" height = "290"> 
+  <img src = "assets/img/team/teampic.jpg" width = "" height = ""> 
 </center>
 
 
