@@ -29,7 +29,10 @@ Finals Round 2 (The Matter beats King Sean)
 
 <img src = "assets/img/team/teampic.jpg" width = "257" height = "290"> 
 <center>
-  The Matter Wins
+  <caption>
+    The Matter Wins
+  </caption>
+  <img src = "assets/img/team/teampic.jpg" width = "257" height = "290"> 
 </center>
 
 
