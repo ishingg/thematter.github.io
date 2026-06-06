@@ -6,12 +6,6 @@ caption:
   subtitle: Winning Laps & Team Picture
   thumbnail: assets/img/portfolio/rank1.jpg
 ---
-<style> 
-  img { 
-    width: 0.0666%; 
-    height: 0.0666% 
-  }
-</style>
 
 <video controls width="100%">
   <source src="{{ 'assets/videos/portfolio/semifinal.mp4' | relative_url }}" type="video/mp4">
